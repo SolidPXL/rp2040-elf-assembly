@@ -1,0 +1,7 @@
+/home/s3pi/Desktop/blinktest/build/_deps/picotool/picotool
+/home/s3pi/Desktop/blinktest/build/_deps/picotool/picotoolTargets.cmake
+/home/s3pi/Desktop/blinktest/build/_deps/picotool/picotoolTargets-release.cmake
+/home/s3pi/Desktop/blinktest/build/_deps/picotool/picotoolConfig.cmake
+/home/s3pi/Desktop/blinktest/build/_deps/picotool/picotoolConfigVersion.cmake
+/home/s3pi/Desktop/blinktest/build/_deps/picotool/enc_bootloader.elf
+/home/s3pi/Desktop/blinktest/build/_deps/picotool/enc_bootloader_mbedtls.elf
